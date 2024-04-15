@@ -14,7 +14,7 @@ int main(void)
 {
 	printf("first push");
 
-	printf("Making conflict");
+	printf("Making conflict again");
 
 
 	return 0;
