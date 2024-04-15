@@ -14,5 +14,7 @@ int main(void)
 {
 	printf("first push");
 
+	printf("FOR branch1");
+
 	return 0;
 }
