@@ -14,9 +14,8 @@ int main(void)
 {
 	printf("first push");
 
-	printf("FOR branch1");
+	printf("Making conflict");
 
-	printf("FOR branch1 but not pushing this time");
 
 	return 0;
 }
